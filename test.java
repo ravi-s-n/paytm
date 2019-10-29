@@ -1,6 +1,0 @@
-syresh
-
-
-sss
-
-ssh
