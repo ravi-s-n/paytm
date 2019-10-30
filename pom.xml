@@ -62,7 +62,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://http://3.15.235.234:8081/repository/flipkart-snapshot/</url>
+	      <url>http://http://3.15.235.234:8081/repository/paytm-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
