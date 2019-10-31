@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<sonar.host.url>http://3.133.127.254:9000/</sonar.host.url>
+		<sonar.host.url>http://18.189.188.114:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>suresh123</sonar.password>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -51,13 +51,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.15.235.234:8081/repository/flipkart-release/</url>
+	      <url>http://52.15.40.42:8081/repository/flipkart-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.15.235.234:8081/repository/flipkart-snapshot/</url>
+	      <url>http://52.15.40.42:8081/repository/flipkart-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
